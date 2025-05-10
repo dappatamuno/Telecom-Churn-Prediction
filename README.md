@@ -11,6 +11,10 @@ Models Used: Logistic Regression, Random Forest, SVM, AdaBoost, XG Boost, Tensor
 
 Best Model: XG Boost (82.94% accuracy) outperformed others.
 
+## Dataset Setup
+1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
+2. Place `WA_Fn-UseC_-Telco-Customer-Churn.csv` in the `data/` folder.
+
 📌 Key Insights from EDA
 
 High Churn Risk Factors:
